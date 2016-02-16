@@ -1,7 +1,7 @@
 ```
   LIP:
   Title: Membership
-  Authors: groupski, swift
+  Authors: groupsky, swift
   Discussions: http://frm.hackafe.org/t/lip-membership/498
   Status: Draft
   Type:
