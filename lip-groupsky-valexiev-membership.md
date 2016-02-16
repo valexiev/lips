@@ -28,22 +28,20 @@ This LIP contains guidelines for membership in the lab.
 
 # 3. Specification
 
-## 3.1. Who is eligibale for membership?
+
+## 3.1. Procedures
+
+### 3.2.1. Admission of Members
+
+**Who is eligibale for membership?**
 
 
-## 3.2. Admission of Members
 
 
-## 3.3. Hibernation of Membership
 
 
-## 3.4. Withdrawal from Membership
+### 3.2.2. Hibernation of Membership
 
-
-## 3.5. Termination of Membership
-
-
-## 3.6. Members Rights
 
 
 ### 3.2.3. Withdrawal from Membership
