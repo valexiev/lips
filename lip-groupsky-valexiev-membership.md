@@ -46,7 +46,29 @@ This LIP contains guidelines for membership in the lab.
 ## 3.6. Members Rights
 
 
-## 3.7. Members Responsibilities
+
+## 3.1. Rights & Responsibilities
+
+### 3.1.1. Rights of Members
+
+1) A member has the right to take part in shaping and running the lab as an organization, that includes:
+
+ - to take part in Meetings of Members either live, or online
+ - to vote at Meetings of Members
+ - to vote for LIPs
+ - to be notified for the lab's activities - desicions of members, changes of the internal rules, events, projects, etc.
+ - to monitor the internal workings of the lab as well as lab's management bodies
+
+2) A member has the right to use the lab as follows:
+
+ - to have access to the lab's spaces and equipment according to the Internal rules
+ - to bring their guests, ensuring they do follow the Internal rules and don not disturb the other memebers of the lab
+
+
+### 3.1.2. Responsibilities of Members
+
+1) A member must follow the Internal rules of the lab, does not disturb other members and ensure member's guests do the same.
+2) A member must pay theyr montly membership fee before the start of the month.
 
 
 # 4. Rationale
