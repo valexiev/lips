@@ -46,6 +46,10 @@ This LIP contains guidelines for membership in the lab.
 ## 3.6. Members Rights
 
 
+### 3.2.3. Withdrawal from Membership
+
+Members may withdraw from membership in the lap at any time upon written, signed notice delivered to an officer of the lab. Thereafter the membership, including all related voting rights, of such member shall be terminated.
+
 ### 3.2.4. Termination of Membership
 
 No member may have his, her or its membership terminated except by an affirmative vote of a two-thirds majority of the members of the corporation. Thereafter the membership, including all related voting rights, of such member shall be terminated.
