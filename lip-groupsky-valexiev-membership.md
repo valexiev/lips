@@ -33,7 +33,23 @@ This LIP contains guidelines for membership in the lab.
 
 ### 1. Admission of Members
 
-**Who is eligible for membership?**
+Any entity - legal or virtual - has the right to request to become a member. The request should be accompanied with a short introduction preferably in written form that has at least:
+
+1. Contact email
+1. Who is the entity
+2. Why does it want to become a member
+3. What benefits to the community will be provided
+ 
+Any other information is welcomed but not required.
+
+After receiving the request a public discussion should be initiated which should ultimately result in a voting that will decide the result of the request. For a member request to be approved the votes in favor must be greater than the votes against.
+
+After the vote have decided upon the requested memberhip, an e-mail is sent to the requesting entity to notify of the outcome and any next steps if necessary.
+
+Eventhough the majority of the community will ultimately decide who will be a member, a short list of favorabble and unfavorable features is provided for a guideline here:
+
++ :+1: technology guru
++ :-1: politics
 
 
 ### 2. Induction of Members
