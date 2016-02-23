@@ -29,7 +29,7 @@ This LIP contains guidelines for membership in the lab.
 # III. Specification
 
 
-## Procedures
+## Section 1: Procedures
 
 ### 1. Admission of Members
 
@@ -71,7 +71,7 @@ Members may withdraw from membership in the lap at any time upon written, signed
 No member may have his, her or its membership terminated except by an affirmative vote of a two-thirds majority of the members of the corporation. Thereafter the membership, including all related voting rights, of such member shall be terminated.
 
 
-## Rights & Responsibilities
+## Section 2: Rights & Responsibilities
 
 ### Rights of Members
 
