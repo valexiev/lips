@@ -80,6 +80,7 @@ No member may have his, her or its membership terminated except by an affirmativ
  - to take part in Meetings of Members either live or online
  - to vote at Meetings of Members
  - to vote for LIPs
+ - to delegate their vote to other members according to the Internal rules (TODO: add a reference to a LIP for delegation).
  - to be notified for the lab's activities - decisions of members, changes of the Internal rules, events, projects, etc.
  - to monitor the internal workings of the lab as well as lab's management bodies
 
