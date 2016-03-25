@@ -64,7 +64,7 @@ Once the member gives their membership fee, thereafter their membership and all 
 
 ### 4. Withdrawal from Membership
 
-Members may withdraw from membership in the lap at any time upon written, signed notice delivered to an officer of the lab. Thereafter the membership, including all related voting rights, of such member shall be terminated.
+Members may withdraw from membership in the lap at any time upon written post in the lab's forum at http://frm.hackafe.org. Thereafter the membership, including all related voting rights, of such member shall be terminated.
 
 ### 5. Termination of Membership
 
