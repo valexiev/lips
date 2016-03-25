@@ -68,7 +68,7 @@ Members may withdraw from membership in the lap at any time upon written post in
 
 ### 5. Termination of Membership
 
-No member may have his, her or its membership terminated except by an affirmative vote of a two-thirds majority of the members of the corporation. Thereafter the membership, including all related voting rights, of such member shall be terminated.
+No member may have his, her or its membership terminated except by an affirmative vote of a two-thirds majority of the members entitled to vote, represented in person or represented by proxy. Thereafter the membership, including all related voting rights, of such member shall be terminated.
 
 
 ## Section 2: Rights & Responsibilities
