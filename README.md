@@ -1,7 +1,7 @@
 # LIPs
 This repository contains all approved **Lab Improvement Proposals** (LIPs) and is the governing guidelines used in Hackafe.
 
-## ACCEPTED LIPs
+## ACCEPTED LIP
 
 * [LIP 0001 LIP Purpose and Guidelines](lip-0001-lip-guidelines.md)
 
